@@ -1,4 +1,4 @@
-# DSC-Final_Task-Shamanth
+# Portugese Bank Deposit
 A Portuguese banking institution has collected data about their clients and they now want to use this data to design their marketing campaigns for maximum profit. The product being sold is a term deposit (Fixed Deposit). 
 ## Term Deposit Subscription Prediction
 The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y).
